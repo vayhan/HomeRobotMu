@@ -1,0 +1,16 @@
+cd appdata\local\programs\python\python36-32
+
+
+
+Python -m pip install --upgrade pip
+python -m pip install --upgrade speechrecognition
+
+python -m pip install gTTS==1.1.7
+
+>python -m pip install pyglet
+
+Hatalar var. AVBIN hatalarý. GÝttim AVBIN i yükledim. 
+https://avbin.github.io/AVbin/Download.html  yemedi
+https://www.mediafire.com/file/64vjttya35alh7k/avbin.rar
+
+python -m pip install pygame
