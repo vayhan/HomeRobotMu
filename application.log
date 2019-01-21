@@ -1,34 +1,1244 @@
 WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka kapan
+INFO:root:COMMAND: PSTT=kanka kapan 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapan
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=3
+INFO:root:COMMAND: DB:KOMUT=kapan
+INFO:root:COMMAND: ANSWER=sistem kapanýyor
 INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sistem+kapan%C4%B1yor&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=918818.559854 HTTP/1.1" 200 6720
 INFO:root:FILE: Delete File
-WARNING:root:FILE: The file does not exist
+INFO:root:FILE: Deleted Succesfully
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=kankan kapaðým
+INFO:root:COMMAND: PSTT=kankan kapaðým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapaðým
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka kapan
+INFO:root:COMMAND: PSTT=kanka kapan 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapan
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=3
+INFO:root:COMMAND: DB:KOMUT=kapan
+INFO:root:COMMAND: ANSWER=sistem kapanýyor
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sistem+kapan%C4%B1yor&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=918818.559854 HTTP/1.1" 200 6720
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn bir tanesi
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+bir+tanesi&tl=tr&total=1&idx=0&client=tw-ob&textlen=20&tk=624751.984995 HTTP/1.1" 200 8256
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn aþký
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+a%C5%9Fk%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=14&tk=872417.770093 HTTP/1.1" 200 6240
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka kapat
+INFO:root:COMMAND: PSTT=kanka kapat 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapat
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka kapat
+INFO:root:COMMAND: PSTT=kanka kapat 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapat
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
 INFO:root:COMMAND: Real Mode Command Type Selected
 INFO:root:COMMAND: STT=Kanka Merhaba
 INFO:root:COMMAND: PSTT=kanka merhaba 
 INFO:root:COMMAND: MC=kanka
 INFO:root:COMMAND: MCR=TRUE
 INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
 INFO:root:COMMAND: DB:comTYPE=1
 INFO:root:COMMAND: DB:KOMUT=merhaba
 INFO:root:COMMAND: ANSWER=sesini duymak çok güzel
+INFO:root:FILE: nOF=answerFile.mp3
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
 DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
-DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sesini+duymak+%C3%A7ok+g%C3%BCzel&tl=tr&total=1&idx=0&client=tw-ob&textlen=23&tk=486841.123436 HTTP/1.1" 200 9312
-WARNING:root:START: Application
-INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sesini+duymak+%C3%A7ok+g%C3%BCzel&tl=tr&total=1&idx=0&client=tw-ob&textlen=23&tk=789147.689495 HTTP/1.1" 200 9312
 INFO:root:FILE: Delete File
 INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka nasýlsýn
+INFO:root:COMMAND: PSTT=kanka nasýlsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=nasýlsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=nasýlsýn
+INFO:root:COMMAND: ANSWER=bugün çok iyiyim
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=bug%C3%BCn+%C3%A7ok+iyiyim&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=667000.828084 HTTP/1.1" 200 6144
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn bir tanesi
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+bir+tanesi&tl=tr&total=1&idx=0&client=tw-ob&textlen=20&tk=624751.984995 HTTP/1.1" 200 8256
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka öðrenme modunu aç
+INFO:root:COMMAND: PSTT=kanka öðrenme modunu aç 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=öðrenme modunu aç
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=2
+INFO:root:COMMAND: DB:KOMUT=öðrenme modunu aç
+INFO:root:COMMAND: ANSWER=öðrenme modu açýldý
+INFO:root:LM: Learning Mode Opened
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=%C3%B6%C4%9Frenme+modu+a%C3%A7%C4%B1ld%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=134020.296008 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Komut+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=12412.442288 HTTP/1.1" 200 5184
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=seni çok seviyorum
+INFO:root:COMMAND: PSTT=seni çok seviyorum 
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Cevap+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=320384.158796 HTTP/1.1" 200 5376
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Ben de seni çok seviyorum
+INFO:root:COMMAND: PSTT=ben de seni çok seviyorum 
+INFO:root:COMMAND: PSST=ben de seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=576939.934503 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=576939.934503 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=anlamadým
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=anlamad%C4%B1m&tl=tr&total=1&idx=0&client=tw-ob&textlen=9&tk=249294.344578 HTTP/1.1" 200 3936
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=anlamadým
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=anlamad%C4%B1m&tl=tr&total=1&idx=0&client=tw-ob&textlen=9&tk=249294.344578 HTTP/1.1" 200 3936
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=anlamadým
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=anlamad%C4%B1m&tl=tr&total=1&idx=0&client=tw-ob&textlen=9&tk=249294.344578 HTTP/1.1" 200 3936
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka öðrenme modunu aç
+INFO:root:COMMAND: PSTT=kanka öðrenme modunu aç 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=öðrenme modunu aç
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=2
+INFO:root:COMMAND: DB:KOMUT=öðrenme modunu aç
+INFO:root:COMMAND: ANSWER=öðrenme modu açýldý
+INFO:root:LM: Learning Mode Opened
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=%C3%B6%C4%9Frenme+modu+a%C3%A7%C4%B1ld%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=134020.296008 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Komut+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=12412.442288 HTTP/1.1" 200 5184
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: PSST=kanka canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Cevap+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=320384.158796 HTTP/1.1" 200 5376
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Sen de benim canýmsýn
+INFO:root:COMMAND: PSTT=sen de benim canýmsýn 
+INFO:root:COMMAND: PSST=sen de benim canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=576939.934503 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=576939.934503 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=babacýðým Sen de benim canýmsýn
+INFO:root:COMMAND: PSTT=babacýðým sen de benim canýmsýn 
+INFO:root:COMMAND: PSST=babacýðým sen de benim canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=canýmsýn
+INFO:root:COMMAND: ANSWER=babacým sende benim canýmsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babac%C4%B1m+sende+benim+can%C4%B1ms%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=28&tk=44694.401754 HTTP/1.1" 200 10368
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=araba kýrýlmýþ
+INFO:root:COMMAND: PSTT=araba kýrýlmýþ 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=araba kýrýlmýþ
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=hemen kurumasý
+INFO:root:COMMAND: PSTT=hemen kurumasý 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=hemen kurumasý
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
 INFO:root:COMMAND: Real Mode Command Type Selected
 INFO:root:COMMAND: STT=Kanka Merhaba
 INFO:root:COMMAND: PSTT=kanka merhaba 
 INFO:root:COMMAND: MC=kanka
 INFO:root:COMMAND: MCR=TRUE
 INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
 INFO:root:COMMAND: DB:comTYPE=1
 INFO:root:COMMAND: DB:KOMUT=merhaba
-INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:COMMAND: ANSWER=sesini duymak çok güzel
+INFO:root:FILE: nOF=answerFile.mp3
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
 DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
-DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=merhaba&tl=tr&total=1&idx=0&client=tw-ob&textlen=7&tk=647756.1011161 HTTP/1.1" 200 3744
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sesini+duymak+%C3%A7ok+g%C3%BCzel&tl=tr&total=1&idx=0&client=tw-ob&textlen=23&tk=789147.689495 HTTP/1.1" 200 9312
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka nasýlsýn
+INFO:root:COMMAND: PSTT=kanka nasýlsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=nasýlsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=nasýlsýn
+INFO:root:COMMAND: ANSWER=bugün çok iyiyim
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=bug%C3%BCn+%C3%A7ok+iyiyim&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=667000.828084 HTTP/1.1" 200 6144
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn bir tanesi
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+bir+tanesi&tl=tr&total=1&idx=0&client=tw-ob&textlen=20&tk=624751.984995 HTTP/1.1" 200 8256
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka öðrenme modunu aç
+INFO:root:COMMAND: PSTT=kanka öðrenme modunu aç 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=öðrenme modunu aç
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=2
+INFO:root:COMMAND: DB:KOMUT=öðrenme modunu aç
+INFO:root:COMMAND: ANSWER=öðrenme modu açýldý
+INFO:root:LM: Learning Mode Opened
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=%C3%B6%C4%9Frenme+modu+a%C3%A7%C4%B1ld%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=134020.296008 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Komut+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=12412.442288 HTTP/1.1" 200 5184
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Cevap+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=320384.158796 HTTP/1.1" 200 5376
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=576939.934503 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=cevap
+INFO:root:COMMAND: PSTT=cevap 
+INFO:root:COMMAND: PSST=cevap
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=576939.934503 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Gökhan Alkan kimdir
+INFO:root:COMMAND: PSTT=gökhan alkan kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=gökhan alkan kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=merhaba&tl=tr&total=1&idx=0&client=tw-ob&textlen=7&tk=709701.809865 HTTP/1.1" 200 3744
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=kimdir
+INFO:root:COMMAND: PSTT=kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Volkan Ayhan kimdir
+INFO:root:COMMAND: PSTT=kanka volkan ayhan kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=volkan ayhan kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=volkan ayhan kimdir
+INFO:root:COMMAND: ANSWER=anlamadým
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=anlamad%C4%B1m&tl=tr&total=1&idx=0&client=tw-ob&textlen=9&tk=249294.344578 HTTP/1.1" 200 3936
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=zeka canýmsýn
+INFO:root:COMMAND: PSTT=zeka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=zeka canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=canýmsýn
+INFO:root:COMMAND: ANSWER=sen de benim canýmsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sen+de+benim+can%C4%B1ms%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=21&tk=335350.234043 HTTP/1.1" 200 7968
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=selam
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=selam&tl=tr&total=1&idx=0&client=tw-ob&textlen=5&tk=865116.769169 HTTP/1.1" 200 3168
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka nasýlsýn
+INFO:root:COMMAND: PSTT=kanka nasýlsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=nasýlsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=nasýlsýn
+INFO:root:COMMAND: ANSWER=iyiyim sen nasýlsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=iyiyim+sen+nas%C4%B1ls%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=51002.411895 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn aþký
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+a%C5%9Fk%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=14&tk=866559.767794 HTTP/1.1" 200 6240
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn bir tanesi
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+bir+tanesi&tl=tr&total=1&idx=0&client=tw-ob&textlen=20&tk=246073.347892 HTTP/1.1" 200 8256
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=canýmsýn
+INFO:root:COMMAND: ANSWER=babacým sende benim canýmsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babac%C4%B1m+sende+benim+can%C4%B1ms%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=28&tk=919357.559344 HTTP/1.1" 200 10368
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=ben de seni çok seviyorum
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=ben+de+seni+%C3%A7ok+seviyorum&tl=tr&total=1&idx=0&client=tw-ob&textlen=25&tk=500916.76665 HTTP/1.1" 200 9216
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka kapat
+INFO:root:COMMAND: PSTT=kanka kapat 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapat
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=merhaba&tl=tr&total=1&idx=0&client=tw-ob&textlen=7&tk=886668.723009 HTTP/1.1" 200 3744
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka nasýlsýn
+INFO:root:COMMAND: PSTT=kanka nasýlsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=nasýlsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=nasýlsýn
+INFO:root:COMMAND: ANSWER=bugün çok iyiyim
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=bug%C3%BCn+%C3%A7ok+iyiyim&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=493884.67313 HTTP/1.1" 200 6144
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn aþký
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+a%C5%9Fk%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=14&tk=866559.767794 HTTP/1.1" 200 6240
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Eylül kimdir
+INFO:root:COMMAND: PSTT=kanka eylül kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=eylül kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=eylül kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn bir tanesi
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+bir+tanesi&tl=tr&total=1&idx=0&client=tw-ob&textlen=20&tk=246073.347892 HTTP/1.1" 200 8256
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=canýmsýn
+INFO:root:COMMAND: ANSWER=sen de benim canýmsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sen+de+benim+can%C4%B1ms%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=21&tk=335350.234043 HTTP/1.1" 200 7968
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=anlamadým
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=anlamad%C4%B1m&tl=tr&total=1&idx=0&client=tw-ob&textlen=9&tk=427953.2172 HTTP/1.1" 200 3936
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=ben de seni çok seviyorum
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=ben+de+seni+%C3%A7ok+seviyorum&tl=tr&total=1&idx=0&client=tw-ob&textlen=25&tk=500916.76665 HTTP/1.1" 200 9216
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=canýmsýn
+INFO:root:COMMAND: ANSWER=sen de benim canýmsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sen+de+benim+can%C4%B1ms%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=21&tk=335350.234043 HTTP/1.1" 200 7968
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka kapat
+INFO:root:COMMAND: PSTT=kanka kapat 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapat
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Figen Han kimdir
+INFO:root:COMMAND: PSTT=figen han kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=figen han kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=sesini duymak çok güzel
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sesini+duymak+%C3%A7ok+g%C3%BCzel&tl=tr&total=1&idx=0&client=tw-ob&textlen=23&tk=151888.319133 HTTP/1.1" 200 9312
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka öðrenme modunu aç
+INFO:root:COMMAND: PSTT=kanka öðrenme modunu aç 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=öðrenme modunu aç
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=2
+INFO:root:COMMAND: DB:KOMUT=öðrenme modunu aç
+INFO:root:COMMAND: ANSWER=öðrenme modu açýldý
+INFO:root:LM: Learning Mode Opened
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=%C3%B6%C4%9Frenme+modu+a%C3%A7%C4%B1ld%C4%B1&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=502453.75128 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Komut+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=709094.810539 HTTP/1.1" 200 5184
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Belgen ayhan kimdir
+INFO:root:COMMAND: PSTT=belgen ayhan kimdir 
+INFO:root:COMMAND: PSST=belgen ayhan kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Cevap+Nedir%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=711944.807621 HTTP/1.1" 200 5376
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=çocuklarýnýn annesidir
+INFO:root:COMMAND: PSTT=çocuklarýnýn annesidir 
+INFO:root:COMMAND: PSST=çocuklarýnýn annesidir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=885149.724560 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=baþka cevap var o da
+INFO:root:COMMAND: PSTT=baþka cevap var o da 
+INFO:root:COMMAND: PSST=baþka cevap var o da
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=Ba%C5%9Fka+cevap+var+m%C4%B1%3F&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=885149.724560 HTTP/1.1" 200 7488
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=sesini duymak çok güzel
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=sesini+duymak+%C3%A7ok+g%C3%BCzel&tl=tr&total=1&idx=0&client=tw-ob&textlen=23&tk=151888.319133 HTTP/1.1" 200 9312
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka nasýlsýn
+INFO:root:COMMAND: PSTT=kanka nasýlsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=nasýlsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=nasýlsýn
+INFO:root:COMMAND: ANSWER=iyiyim sen nasýlsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=iyiyim+sen+nas%C4%B1ls%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=51002.411895 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Gülden ayhan kimdir
+INFO:root:COMMAND: PSTT=kanka gülden ayhan kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=gülden ayhan kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka gölgen ayhan kimdir
+INFO:root:COMMAND: PSTT=kanka gölgen ayhan kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=gölgen ayhan kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=gölgen ayhan kimdir
+INFO:root:COMMAND: ANSWER=çocuklarýnýn aþkýdýr
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=selam
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=selam&tl=tr&total=1&idx=0&client=tw-ob&textlen=5&tk=865116.769169 HTTP/1.1" 200 3168
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka gölgen ayhan kimdir
+INFO:root:COMMAND: PSTT=kanka gölgen ayhan kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=gölgen ayhan kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=gölgen ayhan kimdir
+INFO:root:COMMAND: ANSWER=çocuklarýnýn aþkýdýr
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=%C3%A7ocuklar%C4%B1n%C4%B1n+a%C5%9Fk%C4%B1d%C4%B1r&tl=tr&total=1&idx=0&client=tw-ob&textlen=20&tk=728328.889541 HTTP/1.1" 200 7776
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka canýmsýn
+INFO:root:COMMAND: PSTT=kanka canýmsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=canýmsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=canýmsýn
+INFO:root:COMMAND: ANSWER=babacým sende benim canýmsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babac%C4%B1m+sende+benim+can%C4%B1ms%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=28&tk=919357.559344 HTTP/1.1" 200 10368
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka seni çok seviyorum
+INFO:root:COMMAND: PSTT=kanka seni çok seviyorum 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=seni çok seviyorum
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=seni çok seviyorum
+INFO:root:COMMAND: ANSWER=anlamadým
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=anlamad%C4%B1m&tl=tr&total=1&idx=0&client=tw-ob&textlen=9&tk=427953.2172 HTTP/1.1" 200 3936
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka kapat
+INFO:root:COMMAND: PSTT=kanka kapat 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapat
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Annen kimdir
+INFO:root:COMMAND: PSTT=kanka annen kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=annen kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=annen kimdir
+INFO:root:COMMAND: ANSWER=Gölgem Ayhan
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=G%C3%B6lgem+Ayhan&tl=tr&total=1&idx=0&client=tw-ob&textlen=12&tk=507278.78403 HTTP/1.1" 200 5472
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Efe kimdir Kanka Efe kimdir
+INFO:root:COMMAND: PSTT=efe kimdir kanka efe kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=efe kimdir kanka efe kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=merhaba&tl=tr&total=1&idx=0&client=tw-ob&textlen=7&tk=886668.723009 HTTP/1.1" 200 3744
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Efe kimdir
+INFO:root:COMMAND: PSTT=kanka efe kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=efe kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=efe kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn erkeði
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+erke%C4%9Fi&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=872514.778127 HTTP/1.1" 200 6816
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Efe kimdir
+INFO:root:COMMAND: PSTT=kanka efe kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=efe kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=efe kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn erkeði
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+erke%C4%9Fi&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=872514.778127 HTTP/1.1" 200 6816
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=merhaba&tl=tr&total=1&idx=0&client=tw-ob&textlen=7&tk=886668.723009 HTTP/1.1" 200 3744
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Efe kimdir
+INFO:root:COMMAND: PSTT=kanka efe kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=efe kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=efe kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn erkeði
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+erke%C4%9Fi&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=872514.778127 HTTP/1.1" 200 6816
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Efe kimdir
+INFO:root:COMMAND: PSTT=kanka efe kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=efe kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=efe kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn erkeði
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+erke%C4%9Fi&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=872514.778127 HTTP/1.1" 200 6816
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka Efe kimdir
+INFO:root:COMMAND: PSTT=kanka efe kimdir 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=efe kimdir
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=efe kimdir
+INFO:root:COMMAND: ANSWER=babasýnýn erkeði
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=babas%C4%B1n%C4%B1n+erke%C4%9Fi&tl=tr&total=1&idx=0&client=tw-ob&textlen=16&tk=872514.778127 HTTP/1.1" 200 6816
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=anlamadým
+INFO:root:COMMAND: PSTT=anlamadým 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=FALSE
+INFO:root:COMMAND: PSST=anlamadým
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=merhaba&tl=tr&total=1&idx=0&client=tw-ob&textlen=7&tk=886668.723009 HTTP/1.1" 200 3744
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka nasýlsýn
+INFO:root:COMMAND: PSTT=kanka nasýlsýn 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=nasýlsýn
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=nasýlsýn
+INFO:root:COMMAND: ANSWER=iyiyim sen nasýlsýn
+INFO:root:FILE: nOF=answerFile.mp3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET / HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): translate.google.com
+DEBUG:urllib3.connectionpool:https://translate.google.com:443 "GET /translate_tts?ie=UTF-8&q=iyiyim+sen+nas%C4%B1ls%C4%B1n&tl=tr&total=1&idx=0&client=tw-ob&textlen=19&tk=51002.411895 HTTP/1.1" 200 7872
+INFO:root:FILE: Delete File
+INFO:root:FILE: Deleted Succesfully
+INFO:root:COMMAND: STT=Kanka kapat
+INFO:root:COMMAND: PSTT=kanka kapat 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=kapat
+INFO:root:COMMAND: Real Mode Command Type Selected
+WARNING:root:START: Application
+INFO:root:COMMAND: STT=Kanka Merhaba
+INFO:root:COMMAND: PSTT=kanka merhaba 
+INFO:root:COMMAND: MC=kanka
+INFO:root:COMMAND: MCR=TRUE
+INFO:root:COMMAND: PSST=merhaba
+INFO:root:COMMAND: Real Mode Command Type Selected
+INFO:root:COMMAND: DB:comTYPE=1
+INFO:root:COMMAND: DB:KOMUT=merhaba
+INFO:root:COMMAND: ANSWER=merhaba
+INFO:root:FILE: nOF=answerFile.mp3

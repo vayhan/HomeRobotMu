@@ -1,7 +1,6 @@
 import os
 import time
 import sqlite3
-import winsound
 import speech_recognition as sr
 import logging
 from gtts import gTTS
@@ -97,24 +96,21 @@ class commandText:
             return self.comType
         conn.close()
         return self.answer
-    def setDBA_LMA(self):
+    def setDBA_LMQA(self,lmQuestion,lmAnswer):
         conn = sqlite3.connect('MuDB.db')
         c = conn.cursor()
-        t = (self.sPSTT,)
-        c.execute('Select * from Komut where komutADI=? order by random() limit 1', t)
-        for row in c:
-            self.comType = row[2]
-            logging.info( "COMMAND: DB:comTYPE=" + str(row[2]) )  
-            t = ( row[3], )
-            logging.info( "COMMAND: DB:KOMUT=" + str(row[1]) )            
-            c.execute('Select * from Cevap where cevapID=?', t)
-            for row in c:
-                self.answer = row[1]
-                logging.info( "COMMAND: ANSWER=" + self.answer )
-                return self.answer
-            return self.comType
+        t = (lmAnswer,)
+        try:
+            c.execute('INSERT INTO Cevap (cevapADI) VALUES (?)', t)
+        except sqlite3.IntegrityError as e:
+            print('sqlite error: ', e.args[0]) # column name is not unique
+        k = (lmQuestion,'1',c.lastrowid,)
+        try:
+            c.execute('INSERT INTO Komut (komutADI,komutTuruID,cevapID) VALUES (?,?,?)', k)
+        except sqlite3.IntegrityError as e:
+            print('sqlite error: ', e.args[0]) # column name is not unique
+        conn.commit()
         conn.close()
-        return self.answer
 
 class answerFile:
     def __init__(self):
@@ -132,15 +128,19 @@ class answerFile:
                 logging.error ("FILE: Error: %s - %s." % (e.filename,e.strerror))
         else:
             logging.warning("FILE: The file does not exist")
-            
+        if os.path.exists(self.name):
+            try:
+                os.system("TASKKILL /F /IM wmplayer.exe")
+            except OSError as e:
+                logging.error ("FILE: Error: %s - %s." % (e.filename,e.strerror))
+                       
     def createFile(self,answer):
         tts = gTTS(answer, lang='tr')
         tts.save(self.name)
-        winsound.PlaySound (self.name, winsound.SND_FILENAME )
 
     def playFile(self):
-        winsound.PlaySound (self.name, winsound.SND_FILENAME )
-        
+        os.startfile("answerFile.mp3")
+   
         
 def run():
     logging.basicConfig(filename='application.log',level=logging.DEBUG)
@@ -148,7 +148,7 @@ def run():
     #while True:
     fileAnswer = answerFile()
     fileAnswer.removeFile()
-    c1 = commandText("1")   #log:COMMAND
+    c1 = commandText("2")   #log:COMMAND
     c1.setSTT("kanka öğrenme modunu aç")
     c1.setPSTT()
     c1.getMC()
@@ -159,21 +159,46 @@ def run():
         if ( str(c1.comType) == "1"):   #Question Answer            fileAnswer.createFile(c1.answer)
             fileAnswer.createFile(c1.answer)
             fileAnswer.playFile()
+            fileAnswer.removeFile()
         elif (str(c1.comType) == "2"): #Learning            logging.info("LM: Learning Mode Opened")
-            #İlk önce öğreneceği Komut nedir?
+            fileAnswer.createFile(c1.answer)
+            fileAnswer.playFile()
+            fileAnswer.removeFile()
+            #İlk önce öğreneceği Komut nedir?            
             fileLMQuestion = answerFile()
-            fileLMQuestion.removeFile()
-            learnLMQ = commandText("2")
-            learnLMQ.setSTT("Komut")
-            learnLMQ.setPSTT()
-            learnLMQ.sPSTT()
+            fileLMQuestion.createFile("Komut Nedir?")
             fileLMQuestion.playFile()
             fileLMQuestion.removeFile()
+            learnLMQ = commandText("2")
+            learnLMQ.setSTT("SoruVolkan")
+            learnLMQ.setPSTT()
+            learnLMQ.sPSTT()
             #Sonra önce öğreneceği Komut nedir?
+            fileLMAnswer = answerFile()
+            fileLMAnswer.createFile("Cevap Nedir?")
+            fileLMAnswer.playFile()
+            fileLMAnswer.removeFile()
             learnLMA = commandText("2")
-            learnLMA.setSTT("Cevap")
+            learnLMA.setSTT("CevapAyhan")
             learnLMA.setPSTT()
             learnLMA.sPSTT()
+            learnLMA.setDBA_LMQA(learnLMQ.sPSTT,learnLMA.sPSTT)
+            volkan = "CevapTest"
+            while True:
+                fileLMAnswer = answerFile()
+                fileLMAnswer.createFile("Başka cevap var mı?")
+                fileLMAnswer.playFile()
+                fileLMAnswer.removeFile()
+                learnLMA = commandText("2")
+                learnLMA.setSTT(volkan)
+                learnLMA.setPSTT()
+                learnLMA.sPSTT()
+                if volkan == "bitti":
+                    return False
+                else:
+                    learnLMA.setDBA_LMQA(learnLMQ.sPSTT,learnLMA.sPSTT)
+                    volkan = "bitti"
+            
         elif (str(c1.comType) == "3"):
             q = q    
     return 
